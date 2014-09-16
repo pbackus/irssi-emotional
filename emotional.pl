@@ -14,10 +14,12 @@ our %IRSSI = (
 );
 
 my %emotes = (
+	'check'   => '☑',
 	'dongers' => 'ヽ༼ຈل͜ຈ༽ﾉ',
 	'flip'    => '(╯°□°）╯︵ ┻━┻',
 	'lenny'   => '( ͡° ͜ʖ ͡°)',
 	'look'    => 'ಠ_ಠ',
+	'nocheck' => '☐',
 	'shades'  => '(-■_■)',
 	'shrug'   => '¯\_(ツ)_/¯',
 	'tears'   => 'ಥ_ಥ',
