@@ -8,16 +8,16 @@ What emotes are included?
 
 Straight from the source:
 
-* `:check:`   → ☑
-* `:dongers:` → ヽ༼ຈل͜ຈ༽ﾉ
-* `:flip:`    → (╯°□°）╯︵ ┻━┻
-* `:lenny:`   → ( ͡° ͜ʖ ͡°)
-* `:look:`    → ಠ_ಠ
-* `:nocheck:` → ☐
-* `:shades:`  → (-■_■)
-* `:shrug:`   → ¯\\\_(ツ)_/¯
-* `:tears:`   → ಥ_ಥ
-* `:unflip:`  → ┬─┬ノ( º _ ºノ)
+* `:check:`   → `☑`
+* `:dongers:` → `ヽ༼ຈل͜ຈ༽ﾉ`
+* `:flip:`    → `(╯°□°）╯︵ ┻━┻`
+* `:lenny:`   → `( ͡° ͜ʖ ͡°)`
+* `:look:`    → `ಠ_ಠ`
+* `:nocheck:` → `☐`
+* `:shades:`  → `(-■_■)`
+* `:shrug:`   → `¯\_(ツ)_/¯`
+* `:tears:`   → `ಥ_ಥ`
+* `:unflip:`  → `┬─┬ノ( º _ ºノ)`
 
 Not a very big set to start with, but it's easy to add your own.
 
