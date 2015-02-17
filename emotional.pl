@@ -10,7 +10,7 @@ our %IRSSI = (
 	name        => 'emotional',
 	description => 'Provides shortcuts for unicode emotes',
 	license     => 'MIT',
-	url         => 'https://github.com/pbackus/irssi-emotional',
+	url         => 'https://raw.githubusercontent.com/pbackus/irssi-emotional/master/emotional.pl',
 );
 
 my %emotes = (
