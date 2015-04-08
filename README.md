@@ -11,7 +11,7 @@ Straight from the source:
 * `:check:`   → `☑`
 * `:dongers:` → `ヽ༼ຈل͜ຈ༽ﾉ`
 * `:flip:`    → `(╯°□°）╯︵ ┻━┻`
-* `:flower:`  → '(✿◠‿◠)',
+* `:flower:`  → `(✿◠‿◠)`,
 * `:give:`    → `༼ つ ◕_◕ ༽つ`
 * `:guns:`    → `(☞ﾟ∀ﾟ)☞`,
 * `:lenny:`   → `( ͡° ͜ʖ ͡°)`
