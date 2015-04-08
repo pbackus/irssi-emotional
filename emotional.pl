@@ -23,6 +23,7 @@ my %emotes = (
 	'lenny'   => '( ͡° ͜ʖ ͡°)',
 	'look'    => 'ಠ_ಠ',
 	'nocheck' => '☐',
+	'notes'   => '♫',
 	'shades'  => '(-■_■)',
 	'shrug'   => '¯\_(ツ)_/¯',
 	'tears'   => 'ಥ_ಥ',
