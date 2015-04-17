@@ -50,3 +50,4 @@ sub render_emotes {
 }
 
 Irssi::signal_add('send text', \&render_emotes);
+Irssi::signal_add('command me', \&render_emotes);
