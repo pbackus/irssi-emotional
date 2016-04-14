@@ -3,7 +3,7 @@ use warnings;
 use English '-no_match_vars';
 use Irssi;
 
-our $VERSION = '1.0.0';
+our $VERSION = '1.1.0';
 our %IRSSI = (
 	authors     => 'Paul Backus',
 	contact     => 'snarwin@gmail.com',
