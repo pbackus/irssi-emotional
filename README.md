@@ -8,8 +8,9 @@ What emotes are included?
 
 * `:check:`   → `☑`
 * `:dongers:` → `ヽ༼ຈل͜ຈ༽ﾉ`
+* `:fite:`    → `(ง•_•)ง`
 * `:flip:`    → `(╯°□°）╯︵ ┻━┻`
-* `:flower:`  → `(✿◠‿◠)`,
+* `:flower:`  → `(◕‿◕✿)`
 * `:give:`    → `༼ つ ◕_◕ ༽つ`
 * `:guns:`    → `(☞ﾟ∀ﾟ)☞`
 * `:lenny:`   → `( ͡° ͜ʖ ͡°)`
