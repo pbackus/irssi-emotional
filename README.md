@@ -28,7 +28,7 @@ What emotes are included?
 How do I add my own emotes?
 ---------------------------
 
-Simple! Just add another line to the `%emotes` hash near the top of the script, with the desired shortcut on the left and the final appearance on the right. And don't forget the trailing comma.
+Simple! Just add another line to the `%emotes` hash near the top of the script, with the desired shortcut on the left and the final appearance on the right.
 
 License
 -------
